@@ -1,8 +1,8 @@
 {
-    "name": "diggy/polylang-cli",
+    "name": "subhransusekhar/polylang-cli",
     "description": "CLI for the Polylang plugin",
     "type": "wp-cli-package",
-    "homepage": "https://github.com/diggy/polylang-cli",
+    "homepage": "https://github.com/subhransusekhar/polylang-cli",
     "license": "MIT",
     "authors": [
         {
